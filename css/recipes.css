@@ -1,0 +1,18 @@
+h1 {
+    color: rgb(89, 66, 192);
+    text-align: center;
+}
+.subsection {
+    background-color: rgb(173, 165, 165);
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    height: auto;
+    width:800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
