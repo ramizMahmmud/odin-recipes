@@ -1,13 +1,22 @@
-h1 {
-    color: rgb(89, 66, 192);
-    text-align: center;
-}
-.subsection {
+.content-txt{
     background-color: rgb(173, 165, 165);
-    width: 800px;
+    width: 700px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 50px;
+    font-family: sans-serif,'Times New Roman', Times, serif;
+
+}
+h1 {
+
+    color: rgb(89, 66, 192);
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 0px;
+}
+.subsection {
+    
 }
 img {
     height: auto;
